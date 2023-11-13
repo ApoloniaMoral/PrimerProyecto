@@ -1,3 +1,5 @@
 
 Hola prueba 2
 Fichero esta editado por mi
+
+cambios realizados desde el fichero local.
